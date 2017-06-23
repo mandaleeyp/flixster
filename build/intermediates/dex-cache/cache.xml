@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.6/2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5/parceler-api-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.6_53c8a93d8f474a1eb48b2e10978fc61550142a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/mandaleeyp/.android/build-cache/0f6191e31205969adb07c5e5363e77d1a9bb697c/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
