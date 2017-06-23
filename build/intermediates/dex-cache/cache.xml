@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_60f4e46257531609f501744850fdccc608844ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_c7446a2947c3fb2eeaf61596ce0b2a85712885ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/c565059961ab1e511119da21a73cd30a36c9dc8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_4181a47583d163ad713067c042e5ab6d1c8f71cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/21f44f406c1aace4890cf0a3bb1399a280aa084e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_f8c57246dbd3488e8cae8dae6e0bf348bb888256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/ba70dde98b99001155ab7e76b1e5a19a80ee7d24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_248f6d685e546a23739d364874e5f5a1b372dcb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_e6f5c91e5f5055227ab78011a40e13d6cd4d9d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/0f6191e31205969adb07c5e5363e77d1a9bb697c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_3d2833b257e5f33980bfc33401679f0f7d863715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/5398409380568e1806396207a8a5a44ee3f1bb3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_27d8b740d2af6f0859ea4e4f514cfb352167fd30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/845ee28cbca78497720d03b187b08ad1e0d909d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_94132949984da6a95d72e5a19c577e5b936d048b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_27a471189be56649c0ccaa8fbfb04019e6e3db30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/a6314b74d0a315bca65e8c724d07491469479071/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_3a2e2682222d1c09e03f42043d2c61666d021fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/15d275843e49cd78d128fed97c3e2ca78dad9840/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_2f79eed946b96b50cdff2fe50ea9c28e4a001839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/45a6852a683da5b1b872fb303040fc40e55fb6ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_dca33c35c07b038d62ed044bd50e694eb745dfe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_27a471189be56649c0ccaa8fbfb04019e6e3db30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/4954b096deac5aa354f2981606883f25073e2fbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_f9d3ebedb0661b45a98087b014ddf8ab4fc03d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/aeb6312914e37328808522490b5369526fe39d8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_cf98d27440282963fb07fed43ce6f3e27cfcc8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/glide-3.8.0_4ff12a29d6a584135652656ea8e992263c66eddf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_e6f5c91e5f5055227ab78011a40e13d6cd4d9d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/e31d6f5692a877cdf03588dafbd8ca1fb1c5d38c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_1184d97815b2b2bfe85cade4ef2646574886b030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mandaleeyp/.android/build-cache/aa3531b557b86c41b12c7dadb4d6ed3f1d0dc4f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mandaleeyp/Desktop/assignments/Flixster/app/build/intermediates/pre-dexed/debug/classes_02c7f701eaa75395dc2754d0c7f143bb8f303559.jar" />
+    </item>
+
+</items>
