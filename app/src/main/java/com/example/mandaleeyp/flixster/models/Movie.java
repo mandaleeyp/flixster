@@ -17,6 +17,7 @@ public class Movie {
     String posterPath; // only the path, not the full URL
     String backdropPath;
     Double voteAverage;
+    Double popularityBar;
 
     public Movie() {}
 
@@ -27,6 +28,7 @@ public class Movie {
         posterPath = object.getString("poster_path");
         backdropPath = object.getString("backdrop_path");
         voteAverage = object.getDouble("vote_average");
+        popularityBar = object.getDouble("popularity");
     }
 
     public String getTitle() {
@@ -47,5 +49,9 @@ public class Movie {
 
     public Double getVoteAverage() {
         return voteAverage;
+    }
+
+    public Double getPopularityBar() {
+        return popularityBar;
     }
 }
