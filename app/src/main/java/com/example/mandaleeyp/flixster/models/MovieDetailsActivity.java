@@ -20,7 +20,6 @@ public class MovieDetailsActivity extends AppCompatActivity {
     TextView tvTitle;
     TextView tvOverview;
     RatingBar rbVoteAverage;
-//    TextView popularity;
     ProgressBar popularityBar;
 
     @Override
@@ -31,7 +30,6 @@ public class MovieDetailsActivity extends AppCompatActivity {
         tvTitle = (TextView) findViewById(R.id.tvTitle);
         tvOverview = (TextView) findViewById(R.id.tvOverview);
         rbVoteAverage = (RatingBar) findViewById(R.id.rbVoteAverage);
-//        popularity = (TextView) findViewById(R.id.popularity);
         popularityBar = (ProgressBar) findViewById(R.id.popularityBar);
 
         // unwrap the movie passed in via intent, using its simple name as a key
